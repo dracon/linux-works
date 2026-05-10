@@ -54,3 +54,6 @@ Et vanlig pragmatisk mønster er å tillate Linux for utviklere som ønsker det,
 - [Microsoft 365 apps for Linux](https://support.microsoft.com/en-us/office/microsoft-365-apps-for-linux-365-for-linux-f7c3b520-4ff1-4614-a6a2-3d24f660838d)
 - [Microsoft Intune compliance policies for Linux](https://learn.microsoft.com/en-us/intune/device-security/compliance/create-custom-script#sample-discovery-script-for-linux)
 - [Microsoft Defender for Endpoint for Linux](https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/microsoft-defender-endpoint-linux)
+- [ISO/IEC 27001](https://en.wikipedia.org/wiki/ISO/IEC_27001)
+- [SOC 2](https://www.paloaltonetworks.com/cyberpedia/soc-2)
+- [NIS2](https://en.wikipedia.org/wiki/NIS2_Directive)
