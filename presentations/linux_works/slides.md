@@ -1,6 +1,6 @@
 ---
-theme: seriph
-background: '#0e1419'
+theme: default
+background: "#0e1419"
 title: Linux-arbeidsstasjoner i et Microsoft-miljø
 info: |
   En balansert vurdering for utviklerteam.
@@ -14,8 +14,8 @@ drawings:
 transition: slide-left
 mdc: true
 fonts:
-  sans: 'Inter'
-  mono: 'JetBrains Mono'
+  sans: "Inter"
+  mono: "JetBrains Mono"
 colorSchema: dark
 ---
 
@@ -24,6 +24,9 @@ colorSchema: dark
 ## i et Microsoft-basert miljø
 
 En balansert vurdering for utviklerteam
+
+![tux](./250px-Tux.svg.webp)
+
 
 <!--
 Velkommen. Dette er en kort gjennomgang av fordeler og ulemper ved å bruke
