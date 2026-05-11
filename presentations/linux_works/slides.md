@@ -41,6 +41,54 @@ vinnes og hva som koster.
 -->
 
 ---
+layout: center
+---
+# Excalidraw
+
+<Excalidraw
+  drawFilePath="./example.excalidraw"
+  class="w-[600px]"
+  :darkMode="false"
+  :background="false"
+/>
+
+![alt](./assets/excalidraw/drawing.png)
+
+---
+layout: triple
+---
+
+::triple-1::
+# Triple 1
+Nice try to create a tripple layout and this text is quite long so it will wrap around
+
+::triple-2::
+# Triple 2
+
+Here is the second column
+
+::triple-3::
+# Triple 3
+
+And here is the third column
+
+---
+layout: triple-col-header
+---
+
+::header::
+# Header Here
+
+::triple-1::
+## Triple 1
+
+::triple-2::
+## Triple 2
+
+::triple-3::
+## Triple 3  
+
+---
 layout: default
 ---
 
