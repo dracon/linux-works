@@ -41,20 +41,6 @@ vinnes og hva som koster.
 -->
 
 ---
-layout: center
----
-# Excalidraw
-
-<Excalidraw
-  drawFilePath="./example.excalidraw"
-  class="w-[600px]"
-  :darkMode="false"
-  :background="false"
-/>
-
-![alt](./assets/excalidraw/drawing.png)
-
----
 layout: triple
 ---
 
